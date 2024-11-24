@@ -1,2 +1,3 @@
-# course-servers
-NC Course - Servers
+# COURSE SERVERS
+
+  - NC Course - Servers
