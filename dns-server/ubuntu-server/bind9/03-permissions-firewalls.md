@@ -12,4 +12,6 @@
 
 ## Enable firewall (ufw)
 
+  - Important! note: Be sure to give permissions at least to ports 22 and 9090 before activating the firewall because you may be left without access to the system
+
   $ sudo ufw enable
